@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Tyler Maxwell"
+	"author": "Tyler Maxwell",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
